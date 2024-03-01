@@ -1,12 +1,12 @@
 {
   "accounts": {
     "136c8695ee183d098e7038946e91d6b6": {
-      "displayName": "Sora",
+      "displayName": "Unknown",
       "type": "msa",
-      "userid": "136c8695ee183d098e7038946e91d6b6",
-      "uuid": "136c8695ee183d098e7038946e91d6b6",
-      "username": "Sora",
-      "refreshToken": "5e107514446f4e009cafa920c2904f42"
+      "userid": "6572a9a86e6c3b2680a099f8daabe907",
+      "uuid": "6572a9a86e6c3b2680a099f8daabe907",
+      "username": "Unknown",
+      "refreshToken": "aac0713bfdba4fa0b388c6214d511801"
     }
   },
   "activeAccountLocalId": "136c8695ee183d098e7038946e91d6b6",

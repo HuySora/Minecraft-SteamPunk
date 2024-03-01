@@ -8,7 +8,7 @@
     },
     "08adb66e89b94353ae6d4a26734d94ee": {
       "name": "forge-1.19.2",
-      "gameDir": "C:\\Users\\Sora\\AppData\\Roaming\\.minecraft\\.client",
+      "gameDir": ".client",
       "lastVersionId": "1.19.2-forge-43.3.8",
       "resolution": {
         "width": 854,
@@ -16,6 +16,7 @@
         "fullscreen": false
       },
       "launcherVisibilityOnGameClose": "keep the launcher open",
+      "memoryMax": 8192,
       "type": "custom",
       "created": "2024-03-01T22:24:03+07:00",
       "lastUsed": "2024-03-01T22:30:58+07:00"
