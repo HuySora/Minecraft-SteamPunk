@@ -1,0 +1,36 @@
+{
+  "profiles": {
+    "96fef8ab7d244da7a0ef5cd4b7b8f6cf": {
+      "name": "",
+      "type": "latest-snapshot",
+      "created": "2024-03-01T22:21:36+07:00",
+      "lastUsed": "2024-03-01T22:21:36+07:00"
+    },
+    "08adb66e89b94353ae6d4a26734d94ee": {
+      "name": "forge-1.19.2",
+      "gameDir": "C:\\Users\\Sora\\AppData\\Roaming\\.minecraft\\.client",
+      "lastVersionId": "1.19.2-forge-43.3.8",
+      "resolution": {
+        "width": 854,
+        "height": 480,
+        "fullscreen": false
+      },
+      "launcherVisibilityOnGameClose": "keep the launcher open",
+      "type": "custom",
+      "created": "2024-03-01T22:24:03+07:00",
+      "lastUsed": "2024-03-01T22:30:58+07:00"
+    },
+    "1bcb61cf2bb944f583f0ee8bbee480f5": {
+      "name": "",
+      "type": "latest-release",
+      "created": "2024-03-01T22:21:36+07:00",
+      "lastUsed": "2024-03-01T22:21:36+07:00"
+    }
+  },
+  "selectedProfile": "08adb66e89b94353ae6d4a26734d94ee",
+  "settings": {
+    "enableAdvanced": false,
+    "profileSorting": "byName"
+  },
+  "version": 3
+}
