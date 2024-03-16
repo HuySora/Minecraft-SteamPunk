@@ -1,0 +1,2138 @@
+{
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-03-15 21:27:13 +0700"
+    },
+    "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-15 21:42:51 +0700"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_quality_items/cooked_porkchop_iron_from_cooked_porkchop_gold": {
+    "criteria": {
+      "hasQuality": "2024-03-15 21:29:49 +0700"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_yellow_dye": {
+    "criteria": {
+      "has_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/calcite_castel_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-03-15 21:42:49 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "thinair:recipes/thinair.main/respirator": {
+    "criteria": {
+      "in_dangerous_air": "2024-03-15 21:14:08 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/spruce_ladder": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_compass": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/coarse_lunar_dirt": {
+    "criteria": {
+      "has_item": "2024-03-15 21:42:49 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/spruce_planks_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-03-15 21:27:07 +0700"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_black_dye": {
+    "criteria": {
+      "has_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "ulterlands:the_ulterlands": {
+    "criteria": {
+      "the_ulterlands": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-03-15 21:42:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-03-15 21:42:49 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_button": {
+    "criteria": {
+      "has_planks": "2024-03-15 21:35:37 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2024-03-15 21:35:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/moonstone_block_from_moonstone": {
+    "criteria": {
+      "has_item": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/c/biomesoplenty/magic_window": {
+    "criteria": {
+      "has_planks": "2024-03-15 21:35:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-03-15 21:27:13 +0700"
+    },
+    "done": true
+  },
+  "immersiveposts:recipes/immersiveposts/fence_copper": {
+    "criteria": {
+      "has_copper_rod": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_stairs": {
+    "criteria": {
+      "has_planks": "2024-03-15 21:35:37 +0700"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/the_acknowledgment": {
+    "criteria": {
+      "has_iron_ingot": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/mahogany_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-03-15 21:27:13 +0700"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/cookie_iron": {
+    "criteria": {
+      "hasWheat": "2024-03-15 21:27:13 +0700"
+    },
+    "done": true
+  },
+  "clayworks:recipes/misc/charcoal_from_baking": {
+    "criteria": {
+      "has_log": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-03-15 21:42:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/spruce_stairs_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/decorations/crafting/torch": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_lime_dye": {
+    "criteria": {
+      "has_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/jungle_ladder": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-03-15 21:26:52 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite_bricks_from_calcite_stonecutting": {
+    "criteria": {
+      "has_item": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-03-15 21:35:37 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/mangrove_ladder": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-03-15 21:35:37 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/melon_popsicle_gold": {
+    "criteria": {
+      "hasStick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_light_blue_dye": {
+    "criteria": {
+      "has_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/warped_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/dough": {
+    "criteria": {
+      "hasWheat": "2024-03-15 21:27:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_pink_dye": {
+    "criteria": {
+      "has_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/cloudcap_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/metal_ladder_none": {
+    "criteria": {
+      "has_metal_rod": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/transportation/skyroot_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/calcite_castel_tile_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2024-03-15 21:35:31 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_stairs_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-03-15 21:33:06 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-03-15 21:24:16 +0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/runic_glass": {
+    "criteria": {
+      "has_rune": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/birch_button_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-03-15 21:33:06 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/spruce_fence_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/willow_ladder": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/birch_sign_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-03-15 21:33:06 +0700"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/barbecue_stick_gold": {
+    "criteria": {
+      "hasStick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/spruce_slab_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/acacia_ladder": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "sliceanddice:recipes/tools/slicer": {
+    "criteria": {
+      "has_tool": "2024-03-15 21:17:46 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_orange_dye": {
+    "criteria": {
+      "has_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-03-15 21:42:49 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_fence": {
+    "criteria": {
+      "has_planks": "2024-03-15 21:35:37 +0700"
+    },
+    "done": true
+  },
+  "iter_rpg:iter_root": {
+    "criteria": {
+      "iter_root": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/spruce_ladder_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-03-15 21:42:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-03-15 21:42:49 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_ladder": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-15 21:12:20 +0700"
+    },
+    "done": false
+  },
+  "handcrafted:recipes/misc/calcite_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/crimson_ladder": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/test_tube": {
+    "criteria": {
+      "has_item": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-03-15 21:27:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-03-15 21:42:49 +0700"
+    },
+    "done": true
+  },
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/cookie_gold": {
+    "criteria": {
+      "hasWheat": "2024-03-15 21:27:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/calcite_castel_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/jungle_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/blightwillow_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "incendium:technical/using/trailblazer": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-15 21:12:20 +0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/qualitycrops_items/cooked_porkchop_gold_from_smoking": {
+    "criteria": {
+      "has_porkchop_gold": "2024-03-15 21:25:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-03-15 21:42:49 +0700"
+    },
+    "done": true
+  },
+  "takesapillage:root": {
+    "criteria": {
+      "always": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-15 21:12:20 +0700"
+    },
+    "done": false
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/melon_popsicle_iron": {
+    "criteria": {
+      "hasStick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-03-15 21:19:54 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/birch_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "shrubland": "2024-03-15 21:26:08 +0700",
+      "highland": "2024-03-15 21:24:27 +0700",
+      "clover_patch": "2024-03-15 21:14:13 +0700",
+      "mystic_grove": "2024-03-15 21:14:34 +0700",
+      "orchard": "2024-03-15 21:27:33 +0700",
+      "highland_moor": "2024-03-15 21:24:44 +0700",
+      "grassland": "2024-03-15 21:14:04 +0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-03-15 21:27:07 +0700"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/calcite_castel_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-03-15 21:15:03 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/edelwood_ladder": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/enchantment_transposer": {
+    "criteria": {
+      "has_items": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2024-03-15 21:20:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-03-15 21:24:16 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_gray_dye": {
+    "criteria": {
+      "has_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-03-15 21:42:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/cookie_diamond": {
+    "criteria": {
+      "hasWheat": "2024-03-15 21:27:13 +0700"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/calcite_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-15 21:42:51 +0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/qualitycrops_items/cooked_porkchop_gold_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop_gold": "2024-03-15 21:25:17 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cutting_board": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/acacia_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-03-15 21:14:36 +0700"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/calcite_castel_tile_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-03-15 21:42:49 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/birch_fence_gate_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-03-15 21:33:06 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "shieldexp:recipes/wooden_shield": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/spruce_door_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-03-15 21:31:16 +0700"
+    },
+    "done": false
+  },
+  "create:recipes/create.palettes/smelting/scoria": {
+    "criteria": {
+      "has_item": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-15 21:42:51 +0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-03-15 21:33:06 +0700"
+    },
+    "done": true
+  },
+  "everycomp:recipes/everycomp/c/biomesoplenty/magic_window_pane": {
+    "criteria": {
+      "has_planks": "2024-03-15 21:35:37 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_boards_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-03-15 21:33:06 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-03-15 21:27:13 +0700"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/springshroom_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/coarse_turquoise_dirt": {
+    "criteria": {
+      "has_item": "2024-03-15 21:42:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_items/gold_fertilizer": {
+    "criteria": {
+      "hasQuality": "2024-03-15 21:25:17 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2024-03-15 21:17:46 +0700"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_green_dye": {
+    "criteria": {
+      "has_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/dark_oak_ladder": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/crystal_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/enchantment_transposer": {
+    "criteria": {
+      "has_the_recipe": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/qualitycrops_items/cooked_porkchop_gold_from_smelting": {
+    "criteria": {
+      "has_porkchop_gold": "2024-03-15 21:25:17 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_light_gray_dye": {
+    "criteria": {
+      "has_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/fermenting/jerky": {
+    "criteria": {
+      "has_any_ingredient": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/spruce_trapdoor_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_recipe": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-15 21:42:51 +0700"
+    },
+    "done": false
+  },
+  "twigs:recipes/calcite/calcite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-03-15 21:26:52 +0700"
+    },
+    "done": true
+  },
+  "thinair:protection_from_yellow": {
+    "criteria": {
+      "protecc": "2024-03-15 21:14:08 +0700"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/glacia_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-03-15 21:22:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-03-15 21:42:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-03-15 21:42:49 +0700"
+    },
+    "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-15 21:42:51 +0700"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:recipes/generic/the_twist": {
+    "criteria": {
+      "has_parent_recipe": "2024-03-15 21:12:19 +0700"
+    },
+    "done": false
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_cyan_dye": {
+    "criteria": {
+      "has_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/spruce_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/crimson_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/wooden_blacksmith_gavel": {
+    "criteria": {
+      "has_planks": "2024-03-15 21:35:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-03-15 21:22:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/cherry_ladder": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/polished_calcite": {
+    "criteria": {
+      "has_item": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_slab": {
+    "criteria": {
+      "has_item": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2024-03-15 21:21:32 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "cold_sweat:root": {
+    "criteria": {
+      "requirement": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/wisteria_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "pyrologernfriends:pyrologer_and_friends": {
+    "criteria": {
+      "pyrologer_and_friends": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/calcite_castel_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/barbecue_stick_diamond": {
+    "criteria": {
+      "hasStick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/birch_ladder": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-15 21:42:51 +0700"
+    },
+    "done": false
+  },
+  "woodworks:recipes/decorations/sawmill": {
+    "criteria": {
+      "has_planks": "2024-03-15 21:35:37 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_planks_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-03-15 21:33:06 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/warped_ladder": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/dark_rune": {
+    "criteria": {
+      "has_rune": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/spruce_pressure_plate_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "goodending:recipes/cypress_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-03-15 21:42:49 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-03-15 21:42:49 +0700"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "chalk:adventure/get_skeleton_skull": {
+    "criteria": {
+      "slept_in_bed": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_red_dye": {
+    "criteria": {
+      "has_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/strip_curtain": {
+    "criteria": {
+      "has_metal_rod": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/birch_fence_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-03-15 21:33:06 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/spruce_boards_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/enigmatic_amulet": {
+    "criteria": {
+      "has_items": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-03-15 21:33:06 +0700"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_blue_dye": {
+    "criteria": {
+      "has_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "grassland": "2024-03-15 21:14:04 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_pickaxe_repairing": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-03-15 21:26:52 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-03-15 21:42:49 +0700"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/melon_popsicle_diamond": {
+    "criteria": {
+      "hasStick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_white_dye": {
+    "criteria": {
+      "has_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-03-15 21:21:13 +0700"
+    },
+    "done": true
+  },
+  "qualitycrops:recipes/qualitycrops_quality_items/porkchop_iron_from_porkchop_gold": {
+    "criteria": {
+      "hasQuality": "2024-03-15 21:25:17 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-03-15 21:35:37 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2024-03-15 21:20:45 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-03-15 21:21:13 +0700"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/shell": {
+    "criteria": {
+      "has_gold_nugget": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_purple_dye": {
+    "criteria": {
+      "has_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-03-15 21:22:02 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_slab": {
+    "criteria": {
+      "has_planks": "2024-03-15 21:35:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "tetra:recipes/string": {
+    "criteria": {
+      "got_string": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/willow_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/birch_door_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-03-15 21:33:06 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_wall": {
+    "criteria": {
+      "has_item": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_gravel": "2024-03-15 21:42:49 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/gravel_bricks/gravel_bricks": {
+    "criteria": {
+      "has_item": "2024-03-15 21:42:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2024-03-15 21:17:46 +0700"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_brown_dye": {
+    "criteria": {
+      "has_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/transportation/fieldsprout_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-03-15 21:31:16 +0700"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/fermenting/beer": {
+    "criteria": {
+      "has_any_ingredient": "2024-03-15 21:27:13 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/spruce_button_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/thermometer": {
+    "criteria": {
+      "temperature": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-15 21:42:51 +0700"
+    },
+    "done": false
+  },
+  "environmental:recipes/decorations/wisteria_ladder": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2024-03-15 21:19:54 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/flint_knife": {
+    "criteria": {
+      "has_stick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-15 21:42:51 +0700"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/transportation/hellbark_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/spruce_sign_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_stairs": {
+    "criteria": {
+      "has_item": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2024-03-15 21:14:08 +0700",
+      "environmental:blossom_valleys": "2024-03-15 21:12:20 +0700",
+      "minecraft:old_growth_birch_forest": "2024-03-15 21:28:36 +0700"
+    },
+    "done": false
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "undead_unleashed:undead_unleashed": {
+    "criteria": {
+      "undead_unleashed": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-15 21:12:20 +0700"
+    },
+    "done": false
+  },
+  "cold_sweat:extreme_temps": {
+    "criteria": {
+      "requirement": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/calcite_pillar_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/birch_ladder_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-03-15 21:33:06 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/birch_slab_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-03-15 21:33:06 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2024-03-15 21:17:46 +0700"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2024-03-15 21:12:19 +0700",
+      "inv_changed-diamond": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-03-15 21:35:37 +0700"
+    },
+    "done": true
+  },
+  "solcarrot:recipes/food_book": {
+    "criteria": {
+      "has_book": "2024-03-15 21:12:19 +0700",
+      "has_carrot": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/magic_sign": {
+    "criteria": {
+      "has_magic_planks": "2024-03-15 21:35:37 +0700"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everbright_blocks/snowcap_mushroom_block": {
+    "criteria": {
+      "has_item": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-15 21:42:51 +0700"
+    },
+    "done": false
+  },
+  "aether:recipes/decorations/skyroot_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/dark_oak_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/birch_pressure_plate_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-03-15 21:33:06 +0700"
+    },
+    "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-15 21:42:51 +0700"
+    },
+    "done": false
+  },
+  "create:recipes/create.palettes/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "qualitysdelight:recipes/qualitysdelight_items/barbecue_stick_iron": {
+    "criteria": {
+      "hasStick": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/spruce_fence_gate_from_spruce_logs_sawing": {
+    "criteria": {
+      "has_spruce_logs": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-03-15 21:42:51 +0700"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2024-03-15 21:42:56 +0700",
+      "log_spam_fixer": "2024-03-15 21:42:51 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/birch_trapdoor_from_birch_logs_sawing": {
+    "criteria": {
+      "has_birch_logs": "2024-03-15 21:33:06 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_axe_repairing": {
+    "criteria": {
+      "has_golden_axe": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-03-15 21:22:02 +0700"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/moonstone_block_from_moonstone_crystal": {
+    "criteria": {
+      "has_item": "2024-03-15 21:18:21 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "tetra:recipes/planks": {
+    "criteria": {
+      "got_wood": "2024-03-15 21:35:37 +0700"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/calcite_castel_tile_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "environmental:recipes/transportation/wisteria_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2024-03-15 21:20:54 +0700"
+    },
+    "done": true
+  },
+  "environmental:recipes/decorations/cherry_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/mangrove_chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/jacaranda_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "thinair:recipes/thinair.main/safety_lantern": {
+    "criteria": {
+      "in_dangerous_air": "2024-03-15 21:14:08 +0700"
+    },
+    "done": true
+  },
+  "goodending:recipes/muddy_oak_boat": {
+    "criteria": {
+      "in_water": "2024-03-15 21:14:07 +0700"
+    },
+    "done": true
+  },
+  "thinair:root": {
+    "criteria": {
+      "bad_air": "2024-03-15 21:14:08 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/stick_from_twig": {
+    "criteria": {
+      "has_item": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "design_decor:recipes/design_decor/calcite_castel_tiles_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/curse_transposer": {
+    "criteria": {
+      "has_parent_recipe": "2024-03-15 21:17:49 +0700"
+    },
+    "done": false
+  },
+  "thinair:recipes/thinair.main/air_bladder": {
+    "criteria": {
+      "in_dangerous_air": "2024-03-15 21:14:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-03-15 21:35:37 +0700"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "environmental:recipes/misc/mud_ball_from_dirt": {
+    "criteria": {
+      "has_dirt": "2024-03-15 21:42:49 +0700"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/root": {
+    "criteria": {
+      "flower": "2024-03-15 21:12:19 +0700"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/forbidden_arcanus/rune_block_from_rune": {
+    "criteria": {
+      "has_rune": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_axe_repairing": {
+    "criteria": {
+      "has_wooden_axe": "2024-03-15 21:26:52 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/calcite/calcite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "chalk:recipes/tools/chalk_from_magenta_dye": {
+    "criteria": {
+      "has_calcite": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-03-15 21:17:49 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/magic_door": {
+    "criteria": {
+      "has_planks": "2024-03-15 21:35:37 +0700"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2024-03-15 21:35:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-03-15 21:26:42 +0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

@@ -1,0 +1,10 @@
+
+#Wire Settings
+[wires]
+
+	#Networking Cable Cable Stettings
+	[wires.cc]
+		#Networking Cable Cable Max Length
+		#Range: 4 ~ 256
+		ccMaxLen = 16
+

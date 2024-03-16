@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "ef92623fd026328a9e196a78d7c644b6"
+	name: "josiee"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		503F8524875C623B: 1
+	}
+	started: {
+		503F8524875C623B: 1710511939643L
+		0000000000000001: 1710511939643L
+		76992E019CD55E76: 1710511939643L
+		75A430761607DC45: 1710511939643L
+	}
+	completed: {
+		503F8524875C623B: 1710511939644L
+		75A430761607DC45: 1710511939644L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

@@ -1,0 +1,15 @@
+{
+	id: "ef92623f-d026-328a-9e19-6a78d7c644b6"
+	type: "player"
+	player_name: "josiee"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "josiee"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFD559"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

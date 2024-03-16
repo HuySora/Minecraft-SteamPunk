@@ -1,0 +1,17 @@
+{
+	id: "af23c832-d1a6-30e1-9813-a231015ab5b5"
+	type: "player"
+	player_name: "fury"
+	ranks: {
+		af23c832-d1a6-30e1-9813-a231015ab5b5: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "fury"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5991FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

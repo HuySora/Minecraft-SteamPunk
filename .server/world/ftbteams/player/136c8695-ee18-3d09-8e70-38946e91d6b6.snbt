@@ -1,0 +1,15 @@
+{
+	id: "136c8695-ee18-3d09-8e70-38946e91d6b6"
+	type: "player"
+	player_name: "Sora"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Sora"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C5FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,15 @@
+{
+	id: "d4471e65-2ddc-303d-8c2d-bf0c518181b9"
+	type: "player"
+	player_name: "long"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "long"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59C3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
