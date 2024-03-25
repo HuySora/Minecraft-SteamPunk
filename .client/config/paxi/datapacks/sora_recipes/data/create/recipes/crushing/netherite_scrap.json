@@ -1,0 +1,19 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:crying_obsidian"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:obsidian",
+      "chance": 0.75
+    },
+    {
+      "item": "minecraft:netherite_scrap",
+      "chance": 0.01
+    }
+  ],
+  "processingTime": 500
+}

@@ -1,0 +1,21 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "create_compressed:cinder_flour_pile"
+    },
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "fluid": "create_enchantment_industry:hyper_experience",
+      "amount": 1000
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:crying_obsidian"
+    }
+  ],
+  "heatRequirement": "superheated"
+}
