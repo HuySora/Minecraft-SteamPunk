@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-03-26 22:20:06 +0700"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/dark_oak_fence_from_dark_oak_planks_sawing": {
     "criteria": {
       "has_dark_oak_planks": "2024-03-03 18:29:20 +0700"
@@ -617,6 +623,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/basic_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_gold_tier_upgrade": "2024-03-26 17:28:30 +0700"
+    },
+    "done": true
+  },
   "design_decor:recipes/design_decor/tuff_castel_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-03-04 23:55:42 +0700"
@@ -763,7 +775,7 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-03-17 00:47:37 +0700"
+      "log_spam_fixer": "2024-03-26 23:03:20 +0700"
     },
     "done": false
   },
@@ -1159,7 +1171,7 @@
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-03-17 00:47:37 +0700"
+      "log_spam_fixer": "2024-03-26 23:03:20 +0700"
     },
     "done": false
   },
@@ -1493,6 +1505,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/qualitysdelight_items/cooking/mushroom_rice_gold": {
+    "criteria": {
+      "hasRice": "2024-03-26 21:51:04 +0700"
+    },
+    "done": true
+  },
   "brewinandchewin:recipes/brewinandchewin/fermenting/beer": {
     "criteria": {
       "has_any_ingredient": "2024-03-03 18:25:36 +0700"
@@ -1598,6 +1616,12 @@
   "extendedgears:recipes/create.base/crafting/large_cogwheel": {
     "criteria": {
       "has_item": "2024-03-03 20:08:03 +0700"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cheeseburger": {
+    "criteria": {
+      "has_cheese": "2024-03-26 17:17:54 +0700"
     },
     "done": true
   },
@@ -1748,6 +1772,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/basic_tier_upgrade": {
     "criteria": {
       "has_redstone_torch": "2024-03-05 20:28:32 +0700"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/pizza": {
+    "criteria": {
+      "has_cheese": "2024-03-26 17:17:54 +0700"
     },
     "done": true
   },
@@ -2047,6 +2077,12 @@
     },
     "done": true
   },
+  "clayworks:recipes/building_blocks/smooth_sandstone_from_baking": {
+    "criteria": {
+      "has_sandstone": "2024-03-26 22:20:06 +0700"
+    },
+    "done": true
+  },
   "twigs:recipes/tuff/tuff_slab": {
     "criteria": {
       "has_item": "2024-03-04 23:55:42 +0700"
@@ -2299,6 +2335,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everbright_blocks/turquoise_stone": {
+    "criteria": {
+      "has_item": "2024-03-26 16:50:30 +0700"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/warped_chest": {
     "criteria": {
       "has_lots_of_items": "2024-03-03 18:13:41 +0700"
@@ -2338,6 +2380,12 @@
   "tetra:spelunking/geode": {
     "criteria": {
       "get_geode": "2024-03-09 20:00:49 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2024-03-26 21:49:37 +0700"
     },
     "done": true
   },
@@ -2590,6 +2638,12 @@
   "miners_delight:recipes/miners_delight/cave_carrots_from_crate": {
     "criteria": {
       "has_cave_carrot": "2024-03-10 03:02:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-03-26 22:20:06 +0700"
     },
     "done": true
   },
@@ -2973,7 +3027,7 @@
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-03-17 00:47:37 +0700"
+      "log_spam_fixer": "2024-03-26 23:03:20 +0700"
     },
     "done": false
   },
@@ -3034,6 +3088,12 @@
   "blue_skies:recipes/blue_skies_everdawn_blocks/cut_crystal_sandstone_stonecutting_crystal_sandstone": {
     "criteria": {
       "has_item": "2024-03-11 23:44:37 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-03-26 22:20:06 +0700"
     },
     "done": true
   },
@@ -3403,6 +3463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-03-26 22:20:06 +0700"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/forbidden_arcanus/edelwood_planks": {
     "criteria": {
       "has_log": "2024-03-03 18:11:59 +0700"
@@ -3472,6 +3538,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-03-11 15:31:41 +0700"
+    },
+    "done": true
+  },
+  "delightful:recipes/cantaloupe_slice": {
+    "criteria": {
+      "has_cantaloupe": "2024-03-26 22:28:24 +0700"
     },
     "done": true
   },
@@ -3813,7 +3885,7 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2024-03-17 00:47:37 +0700"
+      "log_spam_fixer": "2024-03-26 23:03:20 +0700"
     },
     "done": false
   },
@@ -5040,6 +5112,7 @@
       "minecraft:ghast": "2024-03-13 19:38:10 +0700",
       "minecraft:hoglin": "2024-03-13 19:23:30 +0700",
       "minecraft:vindicator": "2024-03-03 18:23:17 +0700",
+      "minecraft:magma_cube": "2024-03-26 17:24:41 +0700",
       "minecraft:spider": "2024-03-04 22:08:27 +0700",
       "minecraft:creeper": "2024-03-03 18:16:23 +0700",
       "minecraft:wither": "2024-03-16 19:47:41 +0700",
@@ -5672,6 +5745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-03-26 22:20:06 +0700"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/magic_fence_gate": {
     "criteria": {
       "has_planks": "2024-03-03 19:53:56 +0700"
@@ -5872,7 +5951,7 @@
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-03-17 00:47:37 +0700"
+      "log_spam_fixer": "2024-03-26 23:03:20 +0700"
     },
     "done": false
   },
@@ -6711,6 +6790,12 @@
     },
     "done": true
   },
+  "twigs:recipes/compacted_dripstone": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-03-26 16:50:32 +0700"
+    },
+    "done": true
+  },
   "aether:recipes/tools/wooden_pickaxe_repairing": {
     "criteria": {
       "has_wooden_pickaxe": "2024-03-03 18:12:43 +0700"
@@ -7019,9 +7104,15 @@
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2024-03-17 00:47:37 +0700"
+      "log_spam_fixer": "2024-03-26 23:03:20 +0700"
     },
     "done": false
+  },
+  "farmersdelight:recipes/farmersdelight/rice_bale": {
+    "criteria": {
+      "has_rice_panicle": "2024-03-26 21:49:41 +0700"
+    },
+    "done": true
   },
   "brewinandchewin:recipes/brewinandchewin/fermenting/cocoa_fudge": {
     "criteria": {
@@ -7299,6 +7390,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/qualitysdelight_items/cooking/cooked_rice_gold": {
+    "criteria": {
+      "hasRice": "2024-03-26 21:51:04 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-03-03 18:22:39 +0700"
@@ -7371,6 +7468,7 @@
       "onion": "2024-03-04 22:15:24 +0700",
       "sweet_berries": "2024-03-03 20:36:23 +0700",
       "tomato": "2024-03-03 20:21:02 +0700",
+      "rice": "2024-03-26 21:49:37 +0700",
       "beetroot": "2024-03-04 21:33:03 +0700",
       "brown_mushroom": "2024-03-10 00:12:16 +0700",
       "sugar_cane": "2024-03-11 23:00:27 +0700",
@@ -8116,7 +8214,7 @@
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2024-03-17 00:47:37 +0700"
+      "log_spam_fixer": "2024-03-26 23:03:20 +0700"
     },
     "done": false
   },
@@ -8164,7 +8262,7 @@
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2024-03-17 00:47:37 +0700"
+      "log_spam_fixer": "2024-03-26 23:03:20 +0700"
     },
     "done": false
   },
@@ -8381,6 +8479,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-03-04 20:16:40 +0700"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/brewinandchewin/ham_and_cheese_sandwich": {
+    "criteria": {
+      "has_cheese": "2024-03-26 17:17:54 +0700"
     },
     "done": true
   },
@@ -8723,6 +8827,12 @@
   "minecraft:recipes/qualitysdelight_items/cooked_cod_slice_gold_from_campfire_cooking": {
     "criteria": {
       "has_cod_slice_gold": "2024-03-12 23:29:10 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-03-26 22:20:06 +0700"
     },
     "done": true
   },
@@ -9960,7 +10070,7 @@
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2024-03-17 00:47:37 +0700"
+      "log_spam_fixer": "2024-03-26 23:03:20 +0700"
     },
     "done": false
   },
@@ -9985,6 +10095,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-03-03 19:15:03 +0700"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_stone": {
+    "criteria": {
+      "has_item": "2024-03-26 16:40:59 +0700"
     },
     "done": true
   },
@@ -10480,9 +10596,21 @@
     },
     "done": true
   },
+  "qualitysdelight:recipes/qualitysdelight_items/rice_gold": {
+    "criteria": {
+      "hasRicePanicle": "2024-03-26 21:49:48 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-03-03 18:29:20 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-03-26 22:20:06 +0700"
     },
     "done": true
   },
@@ -10804,6 +10932,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-03-26 22:20:06 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-03-14 21:04:09 +0700"
@@ -11010,6 +11144,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/rice": {
+    "criteria": {
+      "has_rice_panicle": "2024-03-26 21:49:41 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/qualitysdelight_items/fried_egg_gold_from_campfire_cooking": {
     "criteria": {
       "has_egg_gold": "2024-03-07 19:45:37 +0700"
@@ -11205,6 +11345,24 @@
   "create:recipes/create.palettes/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-03-13 20:30:15 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_the_recipe": "2024-03-26 17:29:13 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2024-03-26 17:29:14 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2024-03-26 17:29:20 +0700"
     },
     "done": true
   },
@@ -11486,7 +11644,7 @@
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2024-03-17 00:47:37 +0700"
+      "log_spam_fixer": "2024-03-26 23:03:20 +0700"
     },
     "done": false
   },
@@ -11874,6 +12032,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-03-26 22:20:06 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-03-03 18:12:36 +0700"
@@ -11979,6 +12143,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-03-04 20:20:54 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-03-26 22:20:06 +0700"
     },
     "done": true
   },
@@ -12153,6 +12323,12 @@
   "qualitycrops:recipes/qualitycrops_crops/wheat_iron_from_wheat_gold": {
     "criteria": {
       "hasQuality": "2024-03-05 22:49:33 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/basic_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_basic_to_iron_tier_upgrade": "2024-03-26 17:28:10 +0700"
     },
     "done": true
   },
@@ -12868,6 +13044,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2024-03-03 18:24:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-03-26 16:50:32 +0700"
     },
     "done": true
   },
@@ -13778,6 +13960,12 @@
     },
     "done": true
   },
+  "brewinandchewin:recipes/brewinandchewin/cooking/cheesy_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-03-26 17:17:54 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-03-03 18:12:33 +0700"
@@ -14266,12 +14454,13 @@
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2024-03-17 00:47:37 +0700"
+      "log_spam_fixer": "2024-03-26 23:03:20 +0700"
     },
     "done": false
   },
   "minecraft:husbandry/plant_seed": {
     "criteria": {
+      "nether_wart": "2024-03-26 17:20:23 +0700",
       "wheat": "2024-03-03 19:17:25 +0700"
     },
     "done": true
@@ -14510,6 +14699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-03-26 22:20:06 +0700"
+    },
+    "done": true
+  },
   "brewinandchewin:recipes/brewinandchewin/fermenting/egg_grog": {
     "criteria": {
       "has_any_ingredient": "2024-03-05 22:35:33 +0700"
@@ -14662,7 +14857,7 @@
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2024-03-17 00:47:37 +0700"
+      "log_spam_fixer": "2024-03-26 23:03:20 +0700"
     },
     "done": false
   },
@@ -15470,6 +15665,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2024-03-14 23:11:44 +0700"
+    },
+    "done": true
+  },
+  "chipped:recipes/mason_table": {
+    "criteria": {
+      "has_mason_table": "2024-03-26 16:53:42 +0700"
     },
     "done": true
   },
