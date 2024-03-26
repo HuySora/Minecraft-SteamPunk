@@ -90,7 +90,7 @@
 	[server.LimitedNetheriteBarrelI]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 63
+		baseSlotLimitMultiplier = 8192
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 3
@@ -135,7 +135,7 @@
 	[server.LimitedNetheriteBarrelII]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 45
+		baseSlotLimitMultiplier = 4096
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 3
@@ -180,7 +180,7 @@
 	[server.LimitedNetheriteBarrelIII]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 36
+		baseSlotLimitMultiplier = 2731
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 3
@@ -225,7 +225,7 @@
 	[server.LimitedNetheriteBarrelIV]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 24
+		baseSlotLimitMultiplier = 2048
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 3

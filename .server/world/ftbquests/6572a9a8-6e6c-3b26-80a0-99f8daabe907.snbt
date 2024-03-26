@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "6572a9a86e6c3b2680a099f8daabe907"
+	name: "Unknown"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		503F8524875C623B: 1
+	}
+	started: {
+		503F8524875C623B: 1710854654833L
+		0000000000000001: 1710854654833L
+		76992E019CD55E76: 1710854654833L
+		75A430761607DC45: 1710854654833L
+	}
+	completed: {
+		503F8524875C623B: 1710854654838L
+		75A430761607DC45: 1710854654838L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

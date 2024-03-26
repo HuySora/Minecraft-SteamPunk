@@ -1,0 +1,17 @@
+{
+	id: "6572a9a8-6e6c-3b26-80a0-99f8daabe907"
+	type: "player"
+	player_name: "Unknown"
+	ranks: {
+		6572a9a8-6e6c-3b26-80a0-99f8daabe907: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Unknown"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5992"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
