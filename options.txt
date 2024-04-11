@@ -189,7 +189,7 @@ key_tetra.toolbelt.binding.open:key.keyboard.b:ALT
 key_tetra.toolbelt.binding.secondary_use:key.keyboard.unknown
 key_key.aether.open_accessories.desc:key.keyboard.unknown
 key_key.aether.gravitite_jump_ability.desc:key.keyboard.space
-key_key.aether.invisibility_toggle.desc:key.keyboard.v
+key_key.aether.invisibility_toggle.desc:key.keyboard.unknown
 key_key.aether_redux.shoot_fireball.desc:key.keyboard.unknown
 key_key.immersive_aircraft.multi_control_left:key.keyboard.a
 key_key.immersive_aircraft.multi_control_right:key.keyboard.d
@@ -213,12 +213,12 @@ key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.e:SHIFT
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.sort:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
-key_key.carry.desc:key.keyboard.left.shift
+key_keybind.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_key.carry.desc:key.keyboard.caps.lock
 key_key.cataclysm.ability:key.keyboard.v
 key_key.spyglass-improvements.use:key.keyboard.unknown
 key_key.enderRing:key.keyboard.i
