@@ -1,0 +1,7 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Dungeon:D:-3744:47:-1120:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Tetra:T:-1068:-28:-745:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Home:H:-72:72:229:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:PillagerShip:P:-336:67:1888:12:false:0:gui.xaero_default:false:0:0:false

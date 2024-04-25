@@ -1,5 +1,46 @@
 {
-  "bookGuiScale": 0,
+  "bookGuiScale": 4,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "enigmaticlegacy:the_acknowledgment": {
+      "viewedEntries": [
+        "enigmaticlegacy:world/first_glance",
+        "enigmaticlegacy:world/ancient_tomes",
+        "enigmaticlegacy:world/soul_loss",
+        "enigmaticlegacy:materials/ancient_debris",
+        "enigmaticlegacy:materials/netherite",
+        "enigmaticlegacy:materials/earth_heart",
+        "enigmaticlegacy:materials/twisted_heart",
+        "enigmaticlegacy:relics/cursed_ring",
+        "enigmaticlegacy:relics/enigmatic_eye",
+        "enigmaticlegacy:relics/golem_heart",
+        "enigmaticlegacy:relics/enigmatic_amulet",
+        "enigmaticlegacy:relics/spellstones",
+        "enigmaticlegacy:brewing/recall_potion",
+        "enigmaticlegacy:relics/astral_fruit",
+        "enigmaticlegacy:materials/etherium_ore",
+        "enigmaticlegacy:tools/forbidden_axe",
+        "enigmaticlegacy:enchantments/ceaseless_enchantment"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "engineersdecor:engineersdecor_manual": {
+      "viewedEntries": [
+        "engineersdecor:structural/wooden_supports",
+        "engineersdecor:structural/floor_grating",
+        "engineersdecor:structural/steel_supports",
+        "engineersdecor:buildingblocks/bricks",
+        "engineersdecor:buildingblocks/ladders",
+        "engineersdecor:buildingblocks/windows",
+        "engineersdecor:buildingblocks/doors",
+        "engineersdecor:buildingblocks/fences",
+        "engineersdecor:buildingblocks/slab_slices",
+        "engineersdecor:crafting/small_lab_furnace",
+        "engineersdecor:crafting/small_mineral_smelter"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }

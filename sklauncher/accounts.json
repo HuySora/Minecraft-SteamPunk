@@ -1,0 +1,14 @@
+{
+  "accounts": {
+    "136c8695ee183d098e7038946e91d6b6": {
+      "displayName": "Sora",
+      "type": "msa",
+      "userid": "136c8695ee183d098e7038946e91d6b6",
+      "uuid": "136c8695ee183d098e7038946e91d6b6",
+      "username": "Sora",
+      "refreshToken": "d7c9d57b6ef7451f99a08caf066ad16e"
+    }
+  },
+  "activeAccountLocalId": "136c8695ee183d098e7038946e91d6b6",
+  "mojangClientToken": ""
+}
