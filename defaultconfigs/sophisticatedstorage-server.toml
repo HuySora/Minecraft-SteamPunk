@@ -45,10 +45,10 @@
 	[server.NetheriteBarrel]
 		#Number of inventory slots in the storage
 		#Range: 1 ~ 180
-		inventorySlotCount = 108
+		inventorySlotCount = 180
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 3
+		upgradeSlotCount = 10
 
 	#Limited Barrel I Settings
 	[server.LimitedBarrelI]
@@ -90,10 +90,10 @@
 	[server.LimitedNetheriteBarrelI]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 63
+		baseSlotLimitMultiplier = 8192
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 3
+		upgradeSlotCount = 10
 
 	#Limited Barrel II Settings
 	[server.LimitedBarrelII]
@@ -135,10 +135,10 @@
 	[server.LimitedNetheriteBarrelII]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 45
+		baseSlotLimitMultiplier = 4096
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 3
+		upgradeSlotCount = 10
 
 	#Limited Barrel III Settings
 	[server.LimitedBarrelIII]
@@ -180,10 +180,10 @@
 	[server.LimitedNetheriteBarrelIII]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 36
+		baseSlotLimitMultiplier = 2731
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 3
+		upgradeSlotCount = 10
 
 	#Limited Barrel IV Settings
 	[server.LimitedBarrelIV]
@@ -225,10 +225,10 @@
 	[server.LimitedNetheriteBarrelIV]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 24
+		baseSlotLimitMultiplier = 2048
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 3
+		upgradeSlotCount = 10
 
 	#Wood Chest Settings
 	[server.WoodChest]
@@ -270,10 +270,10 @@
 	[server.NetheriteChest]
 		#Number of inventory slots in the storage
 		#Range: 1 ~ 180
-		inventorySlotCount = 54
+		inventorySlotCount = 180
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 3
+		upgradeSlotCount = 10
 
 	#Shulker Box Settings
 	[server.ShulkerBox]
@@ -315,10 +315,10 @@
 	[server.NetheriteShulkerBox]
 		#Number of inventory slots in the storage
 		#Range: 1 ~ 180
-		inventorySlotCount = 54
+		inventorySlotCount = 180
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 3
+		upgradeSlotCount = 10
 
 	[server.shulkerBoxDisallowedItems]
 		#List of items that are not allowed to be put in shulkerboxes - e.g. "minecraft:bundle"
@@ -335,85 +335,85 @@
 	[server.compactingUpgrade]
 		#Number of Compacting Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 1
+		filterSlots = 20
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
-		slotsInRow = 1
+		slotsInRow = 5
 
 	#Advanced Compacting Upgrade Settings
 	[server.advancedCompactingUpgrade]
 		#Number of Advanced Compacting Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 2
+		filterSlots = 20
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
-		slotsInRow = 2
+		slotsInRow = 5
 
 	#Deposit Upgrade Settings
 	[server.depositUpgrade]
 		#Number of Deposit Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 1
+		filterSlots = 20
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
-		slotsInRow = 1
+		slotsInRow = 5
 
 	#Advanced Deposit Upgrade Settings
 	[server.advancedDepositUpgrade]
 		#Number of Advanced Deposit Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 2
+		filterSlots = 20
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
-		slotsInRow = 2
+		slotsInRow = 5
 
 	#Feeding Upgrade Settings
 	[server.feedingUpgrade]
 		#Number of Feeding Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 1
+		filterSlots = 20
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
-		slotsInRow = 1
+		slotsInRow = 5
 
 	#Advanced Feeding Upgrade Settings
 	[server.advancedFeedingUpgrade]
 		#Number of Advanced Feeding Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 2
+		filterSlots = 20
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
-		slotsInRow = 2
+		slotsInRow = 5
 
 	#Filter Upgrade Settings
 	[server.filterUpgrade]
 		#Number of Filter Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 1
+		filterSlots = 20
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
-		slotsInRow = 1
+		slotsInRow = 5
 
 	#Advanced Filter Upgrade Settings
 	[server.advancedFilterUpgrade]
 		#Number of Advanced Filter Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 2
+		filterSlots = 20
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
-		slotsInRow = 2
+		slotsInRow = 5
 
 	#Magnet Upgrade Settings
 	[server.magnetUpgrade]
 		#Number of Magnet Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 1
+		filterSlots = 20
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
-		slotsInRow = 1
+		slotsInRow = 5
 		#Range around storage in blocks at which magnet will pickup items
 		#Range: 1 ~ 20
-		magnetRange = 3
+		magnetRange = 1
 
 	#Advanced Magnet Upgrade Settings
 	[server.advancedMagnetUpgrade]
@@ -431,28 +431,28 @@
 	[server.pickupUpgrade]
 		#Number of Pickup Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 1
+		filterSlots = 20
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
-		slotsInRow = 1
+		slotsInRow = 5
 
 	#Advanced Pickup Upgrade Settings
 	[server.advancedPickupUpgrade]
 		#Number of Advanced Pickup Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 2
+		filterSlots = 20
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
-		slotsInRow = 2
+		slotsInRow = 5
 
 	#Void Upgrade Settings
 	[server.voidUpgrade]
 		#Number of Void Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 1
+		filterSlots = 20
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
-		slotsInRow = 1
+		slotsInRow = 5
 		#Determines whether void upgrade allows voiding anything or it only has overflow option
 		voidAnythingEnabled = true
 
@@ -460,10 +460,10 @@
 	[server.advancedVoidUpgrade]
 		#Number of Advanced Void Upgrade's filter slots
 		#Range: 1 ~ 20
-		filterSlots = 2
+		filterSlots = 20
 		#Number of filter slots displayed in a row
 		#Range: 1 ~ 6
-		slotsInRow = 2
+		slotsInRow = 5
 		#Determines whether void upgrade allows voiding anything or it only has overflow option
 		voidAnythingEnabled = true
 
@@ -589,13 +589,13 @@
 	[server.hopperUpgrade]
 		#Number of input filter slots
 		#Range: 1 ~ 8
-		inputFilterSlots = 2
+		inputFilterSlots = 8
 		#Number of input filter slots displayed in a row
 		#Range: 1 ~ 4
 		inputFilterSlotsInRow = 2
 		#Number of fuel filter slots
 		#Range: 1 ~ 8
-		outputFilterSlots = 2
+		outputFilterSlots = 8
 		#Number of fuel filter slots displayed in a row
 		#Range: 1 ~ 4
 		outputFilterSlotsInRow = 2
@@ -610,16 +610,16 @@
 	[server.advancedHopperUpgrade]
 		#Number of input filter slots
 		#Range: 1 ~ 8
-		inputFilterSlots = 4
+		inputFilterSlots = 8
 		#Number of input filter slots displayed in a row
 		#Range: 1 ~ 4
-		inputFilterSlotsInRow = 4
+		inputFilterSlotsInRow = 2
 		#Number of fuel filter slots
 		#Range: 1 ~ 8
-		outputFilterSlots = 4
+		outputFilterSlots = 8
 		#Number of fuel filter slots displayed in a row
 		#Range: 1 ~ 4
-		outputFilterSlotsInRow = 4
+		outputFilterSlotsInRow = 2
 		#Number of ticks between each transfer
 		#Range: 1 ~ 100
 		transferSpeedTicks = 2

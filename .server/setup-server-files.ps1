@@ -22,6 +22,10 @@ $folders = @{
         "ignoreNames" = @()
         "link" = $true
     }
+    "kubejs" = @{
+        "source" = "..\kubejs"
+        "ignoreNames" = @()
+    }
     "mods" = @{
         "source" = "..\mods"
         "ignoreNames" = @(
