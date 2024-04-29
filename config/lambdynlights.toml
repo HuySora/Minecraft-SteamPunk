@@ -118,4 +118,55 @@
 				warden = true
 				witch = true
 				wither = true
+				player = true
+				zombie = true
+				wolf = true
+
+			[light_sources.settings.entities.alexsmobs]
+				crow = true
+				orca = true
+				cockroach = true
+				toucan = true
+				leafcutter_ant = true
+				hummingbird = true
+				terrapin = true
+				catfish = true
+				underminer = true
+				flutter = true
+
+			[light_sources.settings.entities.environmental]
+				yak = true
+				koi = true
+				duck = true
+
+			[light_sources.settings.entities.forbidden_arcanus]
+				lost_soul = true
+
+			[light_sources.settings.entities.upgrade_aquatic]
+				thrasher = true
+				pike = true
+
+			[light_sources.settings.entities.enemyexpansion]
+				goblin = true
+				slugger = true
+				vampflyer = true
+				troll = true
+				meature = true
+				equestrian = true
+
+			[light_sources.settings.entities.quark]
+				toretoise = true
+
+			[light_sources.settings.entities.scguns]
+				training_dummy = true
+
+			[light_sources.settings.entities.pyrologernfriends]
+				a_normal_pumpkin = true
+				pumpkineer = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.create]
+				stationary_contraption = true
 

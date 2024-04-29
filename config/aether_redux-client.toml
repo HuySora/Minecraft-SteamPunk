@@ -1,8 +1,4 @@
 
-[Core]
-	#Reloads the built-in resource packs after each update. Only disable if you know what you're doing!
-	"Reload Packs after updates" = true
-
 [Rendering]
 
 	[Rendering."Mob Model Improvements"]
@@ -32,11 +28,13 @@
 	#Makes Blue Aerclouds have their wobbly sounds that play when bouncing on them
 	"Blue Aercloud bouncing sounds" = true
 
-[Internal]
-	#Internal value to decide if it is the first startup and the base Aether configs should be modified. DO NOT EDIT THIS VALUE, unless you want things to break!
-	"First startup, change Aether configs (DO NOT CHANGE)" = false
-	#Internal value to decide if the game should open the first startup popup.
-	"First Startup Pop-up" = false
-	#DO NOT CHANGE. On startup, if this does not match the internal version value, it will be changed to it and resource packs will be reapplied.
-	"Version ID" = "undefined"
+	[Audio.Packs]
+		#Automatically adds the overrides pack when disabled.
+		"Auto-Apply Overrides Pack" = true
+
+	[Audio.Internal]
+		#Internal value to decide if it is the first startup and the base Aether configs should be modified. DO NOT EDIT THIS VALUE, unless you want things to break!
+		"First startup, change Aether configs (DO NOT CHANGE)" = false
+		#Leftover value. May get used in a future update, or get removed.
+		"Version ID" = "undefined"
 

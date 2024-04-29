@@ -12,8 +12,12 @@
 	"Vanilla-Consistent Mining Speeds" = true
 	#Changes the hitboxes of vanilla double plants. Disable if it causes odd behavior.
 	"Change Double Plant Hitboxes" = true
-	#Changes Gold Aercloud and respective parachute behavior to launch entities downwards
+	#Changes Gold Aercloud behavior to launch entities downwards
 	"Gold Aerclouds launch entities downwards" = true
+	#Makes blockstate conversion sounds (ambrosium, swet ball) better
+	"Better Conversion Sounds" = true
+	#Changes Gold Parachute behavior to launch entities downwards and only have one durability
+	"Gold Parachutes launch entities downwards" = false
 
 [Audio]
 
@@ -57,15 +61,15 @@
 
 			[Worldgen.Biomes."The Blight".Temperature]
 				#Minimum Temperature value for the Blight.
-				Min = -0.4
+				Min = -0.2
 				#Maximum Temperature value for the Blight.
-				Max = -0.1
+				Max = 0.6
 
 			[Worldgen.Biomes."The Blight".Humidity]
 				#Minimum Humidity value for the Blight.
-				Min = -0.8
+				Min = -1.0
 				#Maximum Humidity value for the Blight.
-				Max = -0.1
+				Max = 0.0
 
 			[Worldgen.Biomes."The Blight".Depth]
 				#Minimum Depth value for the Blight.
@@ -73,55 +77,21 @@
 				#Maximum Depth value for the Blight.
 				Max = 1.25
 
-		[Worldgen.Biomes."Gilded Biomes"]
-
-			[Worldgen.Biomes."Gilded Biomes"."Gilded Groves"]
-				#Enables the Gilded Groves biome.
-				"Enable Gilded Groves" = true
-
-				[Worldgen.Biomes."Gilded Biomes"."Gilded Groves".Temperature]
-					#Minimum Temperature value for the Gilded Groves.
-					Min = -0.4
-					#Maximum Temperature value for the Gilded Groves.
-					Max = 0.1
-
-				[Worldgen.Biomes."Gilded Biomes"."Gilded Groves".Humidity]
-					#Minimum Humidity value for the Gilded Groves.
-					Min = -0.3
-					#Maximum Humidity value for the Gilded Groves.
-					Max = -0.1
-
-			[Worldgen.Biomes."Gilded Biomes"."Gilded Thicket"]
-				#Enables the Gilded Thicket biome
-				"Enable Gilded Thicket" = true
-
-				[Worldgen.Biomes."Gilded Biomes"."Gilded Thicket".Temperature]
-					#Minimum Temperature value for the Gilded Thicket.
-					Min = -0.6
-					#Maximum Temperature value for the Gilded Thicket.
-					Max = -0.2
-
-				[Worldgen.Biomes."Gilded Biomes"."Gilded Thicket".Humidity]
-					#Minimum Humidity value for the Gilded Thicket.
-					Min = -0.9
-					#Maximum Humidity value for the Gilded Thicket.
-					Max = -0.2
-
 		[Worldgen.Biomes."Frosted Forests"]
 			#Enables the Frosted Forests biome.
 			"Enable Frosted Forests" = true
 
 			[Worldgen.Biomes."Frosted Forests".Temperature]
 				#Minimum Temperature value for the Frosted Forests.
-				Min = -0.9
+				Min = -0.8
 				#Maximum Temperature value for the Frosted Forests.
-				Max = -0.2
+				Max = 0.0
 
 			[Worldgen.Biomes."Frosted Forests".Humidity]
 				#Minimum Humidity value for the Frosted Forests.
-				Min = -0.5
+				Min = -1.0
 				#Maximum Humidity value for the Frosted Forests.
-				Max = 0.1
+				Max = 0.0
 
 		[Worldgen.Biomes.Highfields]
 			#Enables the Highfields biome.
@@ -129,15 +99,15 @@
 
 			[Worldgen.Biomes.Highfields.Temperature]
 				#Minimum Temperature value for the Highfields.
-				Min = -1.0
+				Min = 0.4
 				#Maximum Temperature value for the Highfields.
-				Max = -0.1
+				Max = 0.93
 
 			[Worldgen.Biomes.Highfields.Humidity]
 				#Minimum Humidity value for the Highfields.
-				Min = -0.2
+				Min = -0.1
 				#Maximum Humidity value for the Highfields.
-				Max = 0.1
+				Max = 1.1
 
 		[Worldgen.Biomes."Cloudcap Jungle"]
 			#Enables the Cloudcap Jungle biome.
@@ -145,21 +115,37 @@
 
 			[Worldgen.Biomes."Cloudcap Jungle".Temperature]
 				#Minimum Temperature value for the Cloudcap Jungle.
-				Min = -0.6
+				Min = -0.2
 				#Maximum Temperature value for the Cloudcap Jungle.
-				Max = -0.2
+				Max = 0.6
 
 			[Worldgen.Biomes."Cloudcap Jungle".Humidity]
 				#Minimum Humidity value for the Cloudcap Jungle.
-				Min = 0.3
+				Min = 0.8
 				#Maximum Humidity value for the Cloudcap Jungle.
-				Max = 0.6
+				Max = 1.0
 
 			[Worldgen.Biomes."Cloudcap Jungle".Depth]
 				#Minimum Depth value for the Cloudcap Jungle.
 				Min = 0.25
 				#Maximum Depth value for the Cloudcap Jungle.
 				Max = 1.25
+
+		[Worldgen.Biomes."Gilded Groves"]
+			#Enables the Gilded Groves biome.
+			"Enable Gilded Groves" = true
+
+			[Worldgen.Biomes."Gilded Groves".Temperature]
+				#Minimum Temperature value for the Gilded Groves.
+				Min = 0.0
+				#Maximum Temperature value for the Gilded Groves.
+				Max = 0.4
+
+			[Worldgen.Biomes."Gilded Groves".Humidity]
+				#Minimum Humidity value for the Gilded Groves.
+				Min = 0.0
+				#Maximum Humidity value for the Gilded Groves.
+				Max = 0.8
 
 [Fun]
 	#Changes quicksoil between various behaviors. Genesis is the most chaotic, highlands is the most fine-tuned, classic is the original

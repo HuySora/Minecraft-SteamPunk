@@ -52,14 +52,15 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
-  "strawgolem": {
-    "lifespan": true,
-    "jade": true,
-    "hunger": true
+  "autoleveling": {
+    "level": true
   },
   "immersiveengineering": {
     "hemp": true,
     "multiblock_icon": true
+  },
+  "delightful": {
+    "crop_progress": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -71,9 +72,9 @@
   },
   "create": {
     "filter": true,
+    "backtank_capacity": true,
     "goggles.requires_goggles": true,
     "goggles": true,
-    "copper_backtank": true,
     "blaze_burner": true,
     "exact_block": true,
     "crafting_blueprint": true,
