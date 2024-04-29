@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "136c8695ee183d098e7038946e91d6b6"
+	name: "Sora"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		503F8524875C623B: 1
+	}
+	started: {
+		503F8524875C623B: 1709465031883L
+		0000000000000001: 1709465031883L
+		76992E019CD55E76: 1709465031883L
+		75A430761607DC45: 1709465031883L
+	}
+	completed: {
+		503F8524875C623B: 1709465031883L
+		75A430761607DC45: 1709465031883L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

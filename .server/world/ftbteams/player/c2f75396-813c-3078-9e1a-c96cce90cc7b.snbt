@@ -1,0 +1,15 @@
+{
+	id: "c2f75396-813c-3078-9e1a-c96cce90cc7b"
+	type: "player"
+	player_name: "Fury"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Fury"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59E6FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "af23c832d1a630e19813a231015ab5b5"
+	name: "fury"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		503F8524875C623B: 1
+	}
+	started: {
+		503F8524875C623B: 1709987243725L
+		0000000000000001: 1709987243725L
+		76992E019CD55E76: 1709987243725L
+		75A430761607DC45: 1709987243725L
+	}
+	completed: {
+		503F8524875C623B: 1709987243762L
+		75A430761607DC45: 1709987243762L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

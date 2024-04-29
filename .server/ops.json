@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "136c8695-ee18-3d09-8e70-38946e91d6b6",
+    "name": "Sora",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "c2f75396-813c-3078-9e1a-c96cce90cc7b",
+    "name": "Fury",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d4471e65-2ddc-303d-8c2d-bf0c518181b9",
+    "name": "long",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
